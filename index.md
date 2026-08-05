@@ -2,7 +2,7 @@
 
 **Last updated:** 2 August 2026
 
-PatternPro ("the app") is provided by [LEGAL ENTITY] ("we", "us"). This policy explains
+PatternPro ("the app") is provided by Zaid Bin Tariq ("we", "us"). This policy explains
 what the app does with your data. It is written to match what the software actually does.
 
 ## Summary
@@ -223,6 +223,6 @@ is significant we will surface it in the app.
 
 ## 11. Contact
 
-[LEGAL ENTITY]
-[POSTAL ADDRESS]
+Zaid Bin Tariq
+Eid Ghah Road, Gulshan Colony, Muzaffarabad, Azad Kashmir 13100, Pakistan
 zaidkhawaja21.zz@gmail.com
